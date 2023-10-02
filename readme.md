@@ -117,4 +117,4 @@ Submit your work via GradeScope.
 | Comprehension | Can't explain the code written | Can explain the code | Could write the code again from scratch |
 | Tests        | < 100% test coverage | 100% Test coverage | Tests covers edge cases and well written descriptions |
 
-# acs3310-assessment
+
